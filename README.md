@@ -1,4 +1,4 @@
-# Bikes-Sales-Excel-Dashboard-
+# Bikes-Sales-Excel-Dashboard
 This repository features an Excel-based interactive dashboard that analyzes bike purchase behavior across various customer demographics, commute distances, and income levels.
 
 📊 Dashboard Overview
